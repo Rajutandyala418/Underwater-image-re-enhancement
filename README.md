@@ -1,2 +1,4 @@
 # Underwater-image-re-enhancement
 Underwater image re-enhancement with the blend of simple color balance and contrast limited adaptive histogram equalization algorithm
+In this we enhance the underwater images with the help of simple color balance to enhance the images by using affine transformation with the help of percentile stretching and the
+output of the image by simple color balance is given input to the clahe algorithm it enhance the contrast of the image by using clip limit divide the image into regions to contrast individually and then merge the images by shaprening the borders and display the enhanced images after that calculate the evaluation metrics in which to describe the visual metrics thorugh different metrics such as peak signal to noise ratio(s/n) and structural similarity of index and underwater color image quality evaluation and root mean square to evalaute the metrics.
