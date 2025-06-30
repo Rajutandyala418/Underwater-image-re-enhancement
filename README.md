@@ -12,3 +12,9 @@ Second type is moderate images in this i calculate the same type of metric calcu
 
 
 And also the third type is blurred images in this also i calculate the individual and combinations metrics by using psnr and ssim and uciqe to observe the dominated result.
+
+
+In Underwater.ipynb file which first display the histogram equalization for foggy images and underwater images to retain the drawbnacks of foggy images and which is overcome by underwater images and then perform the
+simple color balance for the input images and also clahe to display the proposed images after by comparing with other models to display the enhanced images by performing with other models such as GAN,MSRCR,RAHIM along with
+the proposed models and then evaluate the metrics to display the comparsion model graph.
+
